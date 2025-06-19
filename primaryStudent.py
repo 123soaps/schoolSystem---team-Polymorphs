@@ -14,3 +14,8 @@ class PrimaryStudent (student):
     def greet(self, person=None):
         if person=None:
             print("no")
+
+class Ryan:
+    def __init__(self, age, preferences):
+        self.age <= 14
+        self.preferences = "they must be under 14, if not, get out of ryans vicinity"
